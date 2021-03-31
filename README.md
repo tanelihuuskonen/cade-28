@@ -6,4 +6,4 @@ with a Haskell compiler will produce the executables, which will output
 a brief usage note when started in command line mode without arguments.
 
 Any questions about the software can be directed to its author,
-Taneli Huuskonen, by e-mail to taneli@op.pl .
+Taneli Huuskonen, by e-mail to taneli (at) op (dot) pl .
